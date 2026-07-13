@@ -1,1 +1,1 @@
-# KGB
+# ventas-cfg
